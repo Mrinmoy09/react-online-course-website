@@ -1,0 +1,13 @@
+.nav-container {
+    background-color: #27283d;
+}
+
+.items{
+    list-style: none;
+    text-decoration: none;
+    color: white;
+    padding: 5px;
+    margin: 5px;
+    cursor: pointer;
+    font-size: 22px;
+}
